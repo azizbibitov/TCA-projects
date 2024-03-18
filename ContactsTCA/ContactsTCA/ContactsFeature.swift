@@ -121,7 +121,7 @@ struct ContactsView: View {
                 contacts: [
                     Contact(id: UUID(), name: "Aziz"),
                     Contact(id: UUID(), name: "Bibit"),
-                    Contact(id: UUID(), name: "Ahmet"),
+                    Contact(id: UUID(), name: "WithoutNav"),
                 ]
             ),
             reducer: {
