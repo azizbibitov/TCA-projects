@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0463CAFB2BA8D9990077BE38 /* ContactDetailFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0463CAFA2BA8D9990077BE38 /* ContactDetailFeature.swift */; };
 		04CE07442BA7753800DDFCFF /* ContactsTCAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CE07432BA7753800DDFCFF /* ContactsTCAApp.swift */; };
 		04CE07462BA7753800DDFCFF /* ContactsFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CE07452BA7753800DDFCFF /* ContactsFeature.swift */; };
 		04CE07482BA7753900DDFCFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04CE07472BA7753900DDFCFF /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0463CAFA2BA8D9990077BE38 /* ContactDetailFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactDetailFeature.swift; sourceTree = "<group>"; };
 		04CE07402BA7753800DDFCFF /* ContactsTCA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactsTCA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04CE07432BA7753800DDFCFF /* ContactsTCAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsTCAApp.swift; sourceTree = "<group>"; };
 		04CE07452BA7753800DDFCFF /* ContactsFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsFeature.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				04CE07432BA7753800DDFCFF /* ContactsTCAApp.swift */,
 				04CE07452BA7753800DDFCFF /* ContactsFeature.swift */,
+				0463CAFA2BA8D9990077BE38 /* ContactDetailFeature.swift */,
 				04CE07542BA7799800DDFCFF /* AddContactFeature.swift */,
 				04CE07472BA7753900DDFCFF /* Assets.xcassets */,
 				04CE07492BA7753900DDFCFF /* Preview Content */,
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0463CAFB2BA8D9990077BE38 /* ContactDetailFeature.swift in Sources */,
 				04CE07462BA7753800DDFCFF /* ContactsFeature.swift in Sources */,
 				04CE07552BA7799800DDFCFF /* AddContactFeature.swift in Sources */,
 				04CE07442BA7753800DDFCFF /* ContactsTCAApp.swift in Sources */,
